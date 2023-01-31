@@ -8,7 +8,7 @@ import (
 
 	"github.com/forbole/juno/v3/logging"
 
-	"github.com/cosmos/cosmos-sdk/simapp/params"
+	"github.com/cheqd/cosmos-sdk/simapp/params"
 	"github.com/lib/pq"
 
 	_ "github.com/lib/pq" // nolint

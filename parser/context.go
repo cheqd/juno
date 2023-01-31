@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/cosmos/cosmos-sdk/simapp/params"
+	"github.com/cheqd/cosmos-sdk/simapp/params"
 
 	"github.com/forbole/juno/v3/logging"
 	"github.com/forbole/juno/v3/node"

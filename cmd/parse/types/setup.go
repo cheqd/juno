@@ -11,7 +11,7 @@ import (
 
 	"github.com/forbole/juno/v3/database"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/cheqd/cosmos-sdk/types"
 
 	modsregistrar "github.com/forbole/juno/v3/modules/registrar"
 )

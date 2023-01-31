@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/grpc/credentials"
 
-	grpctypes "github.com/cosmos/cosmos-sdk/types/grpc"
+	grpctypes "github.com/cheqd/cosmos-sdk/types/grpc"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 )

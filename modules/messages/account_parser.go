@@ -5,18 +5,18 @@ import (
 
 	"github.com/gogo/protobuf/proto"
 
-	crisistypes "github.com/cosmos/cosmos-sdk/x/crisis/types"
-	evidencetypes "github.com/cosmos/cosmos-sdk/x/evidence/types"
-	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
-	slashingtypes "github.com/cosmos/cosmos-sdk/x/slashing/types"
+	crisistypes "github.com/cheqd/cosmos-sdk/x/crisis/types"
+	evidencetypes "github.com/cheqd/cosmos-sdk/x/evidence/types"
+	govtypes "github.com/cheqd/cosmos-sdk/x/gov/types"
+	slashingtypes "github.com/cheqd/cosmos-sdk/x/slashing/types"
 	ibctransfertypes "github.com/cosmos/ibc-go/v3/modules/apps/transfer/types"
 	channeltypes "github.com/cosmos/ibc-go/v3/modules/core/04-channel/types"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
-	distrtypes "github.com/cosmos/cosmos-sdk/x/distribution/types"
-	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/cheqd/cosmos-sdk/codec"
+	sdk "github.com/cheqd/cosmos-sdk/types"
+	banktypes "github.com/cheqd/cosmos-sdk/x/bank/types"
+	distrtypes "github.com/cheqd/cosmos-sdk/x/distribution/types"
+	stakingtypes "github.com/cheqd/cosmos-sdk/x/staking/types"
 )
 
 // MessageNotSupported returns an error telling that the given message is not supported

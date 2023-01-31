@@ -1,8 +1,8 @@
 package messages
 
 import (
-	"github.com/cosmos/cosmos-sdk/codec"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/cheqd/cosmos-sdk/codec"
+	sdk "github.com/cheqd/cosmos-sdk/types"
 	"github.com/gogo/protobuf/proto"
 
 	"github.com/forbole/juno/v3/database"

@@ -7,14 +7,14 @@ import (
 
 	"github.com/forbole/juno/v3/logging"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/cheqd/cosmos-sdk/codec"
 
 	"github.com/forbole/juno/v3/database"
 	"github.com/forbole/juno/v3/types/config"
 
 	"github.com/forbole/juno/v3/modules"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/cheqd/cosmos-sdk/types"
 	tmctypes "github.com/tendermint/tendermint/rpc/core/types"
 	tmtypes "github.com/tendermint/tendermint/types"
 

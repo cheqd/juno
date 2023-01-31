@@ -10,8 +10,8 @@ import (
 
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/cheqd/cosmos-sdk/codec"
+	sdk "github.com/cheqd/cosmos-sdk/types"
 	"google.golang.org/grpc"
 
 	constypes "github.com/tendermint/tendermint/consensus/types"
@@ -19,7 +19,7 @@ import (
 
 	"github.com/forbole/juno/v3/node"
 
-	"github.com/cosmos/cosmos-sdk/types/tx"
+	"github.com/cheqd/cosmos-sdk/types/tx"
 
 	"github.com/forbole/juno/v3/types"
 
