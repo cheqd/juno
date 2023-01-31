@@ -3,7 +3,7 @@ package builder
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/simapp/params"
+	"github.com/cheqd/cosmos-sdk/simapp/params"
 
 	"github.com/forbole/juno/v4/node"
 	nodeconfig "github.com/forbole/juno/v4/node/config"

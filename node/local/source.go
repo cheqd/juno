@@ -7,11 +7,11 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/simapp/params"
+	"github.com/cheqd/cosmos-sdk/codec"
+	"github.com/cheqd/cosmos-sdk/simapp/params"
 
-	"github.com/cosmos/cosmos-sdk/store"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	"github.com/cheqd/cosmos-sdk/store"
+	sdk "github.com/cheqd/cosmos-sdk/types"
 	"github.com/spf13/viper"
 	cfg "github.com/tendermint/tendermint/config"
 	"github.com/tendermint/tendermint/libs/log"
