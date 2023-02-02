@@ -1,12 +1,12 @@
 package pruning
 
 import (
-	"github.com/forbole/juno/v4/types/config"
+	"github.com/cheqd/juno/v4/types/config"
 
-	"github.com/forbole/juno/v4/logging"
+	"github.com/cheqd/juno/v4/logging"
 
-	"github.com/forbole/juno/v4/database"
-	"github.com/forbole/juno/v4/modules"
+	"github.com/cheqd/juno/v4/database"
+	"github.com/cheqd/juno/v4/modules"
 )
 
 var (
